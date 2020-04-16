@@ -1,0 +1,9 @@
+Description: This is a web data scripping script, it collects all the job related information from
+a job web site, then it sorts the data and export the sorted data into a xlsx file.
+
+Dependency: In order for you to run the script properly, you need to install the following depedencies
+
+1.Beautiful Soup
+2.Requests
+3.python 3
+4.xlsx writer
